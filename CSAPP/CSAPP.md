@@ -45,7 +45,12 @@
 
 ##### 5.增强的DRAM
 
+- 为了 DRAM 能跟上 CPU 的速度，对传统 DRAM 进行优化，提高 DRAM芯片单元的访问速度。
+- FPM → EDO → 同步 DRAM （SDRAM）→ DDR SDARM 。
+
 ##### 6.非易失性存储器
+
+- ROM （只读存储器，部分也可读写）： PROM / EPROM / EEPROM / flash （闪存）/ SSD 。存储在 ROM 中的程序称为固件。
 
 ##### 7.访问主存
 
